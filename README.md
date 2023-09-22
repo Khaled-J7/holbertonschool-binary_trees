@@ -147,6 +147,6 @@ Function Prototypes
 
 
 ## Authors :black_nib:
-Rayen Jouini 
-Khaled jallouli 
-Khairi Taboubi
+`Rayen Jouini`
+`Khaled jallouli`
+`Khairi Taboubi`
